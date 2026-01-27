@@ -157,16 +157,16 @@ enum ProductAnalysis {
 
 Product generateProduct() => Product(
   barcode: '1234567890',
-  name: 'Nutella',
+  name: 'Tartine avocat oeuf',
   altName: 'Product Alt Name',
   picture:
       'https://images.openfoodfacts.org/images/products/301/762/042/5035/front_fr.533.400.jpg',
   quantity: '200g',
   brands: ['Ferrero', 'Ferrero'],
   manufacturingCountries: ['France', 'Italie'],
-  nutriScore: ProductNutriScore.E,
-  novaScore: ProductNovaScore.group4,
-  greenScore: ProductGreenScore.D,
+  nutriScore: ProductNutriScore.A,
+  novaScore: ProductNovaScore.group1,
+  greenScore: ProductGreenScore.B,
   ingredients: [
     'Sucre',
     'sirop de glucose',

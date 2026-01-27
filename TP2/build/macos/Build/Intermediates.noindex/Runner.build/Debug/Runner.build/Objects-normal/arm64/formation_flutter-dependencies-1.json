@@ -206,469 +206,469 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Accessibility-J1JWMUVHEYR94HZWU7VGJDOE.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Accessibility-C051DIO6DPDTQJ4718ZLJXBAD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/AppKit-CXJNJ1GA3Z4ZMLCWD709LX0AF.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/AppKit-8BO20LE6YGA2X2TT8V9I87WIH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/ApplicationServices-2A5H7JKDTGQQ4KLKWMXPY7W5M.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/ApplicationServices-5IIU7CMSGBR6VA1C90X8VBDZ2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CFNetwork-94KS209WVNUXZQFIB1F9YXOZQ.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CFNetwork-81A6EHC49T5OAJ3DBW0JEWXC1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CUPS-C7T7CFOMIERGB70YDNBXTYCZX.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CUPS-5MAGZZGBM6RI1LISEBOKBRLP2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Cocoa.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Cocoa-CNJHS517SOYG9SO9WE7R42NLD.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Cocoa-8VOQ028N68TIUWO41C3VME8CA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Cocoa"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/ColorSync-5JFP0BCNPSP5QSKUIMUWQWQ00.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/ColorSync-5I6KAUURA4TCZ2CL52VOF2947.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreAudio-DMVS6E91A2CF52QI00JJS445N.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreAudio-2RGGCWK7GF5C4ZZC1U6FO9T0B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-7KG699QJYH7VIDQBI7IC8P6YK.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-EBFWHMZYPT6R9PBXSU3G0BKQN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreData-DJ4K8G28QMOVCOZ1UNKN7Q5O0.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreData-9DHMICAI54M57DY6VOH0C029P.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreFoundation-1GVUCOUUWPOCY06R3AURI0GTY.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreFoundation-BBB12BR51FXJJGLYGXPKL52FL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreGraphics-1HE6G5XZY4QQCW1WQHBOLBD7Q.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreGraphics-7M4Z81CNBEQ9HP8X63WBV2RQV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreImage-CRL34J36ID7FCG3L6LUM7FYKF.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreImage-5TNW6KPF2AD7J9Q6C0CTN0N7N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreMedia-F3SJQY7IFTW6KZSY9WSJ957ZO.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreMedia-C4RATV9OWJSZKSI4K21WVFAXM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreServices-4GJ7ZHNBVX9KBDGOQV8Z2U7AI.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreServices-9A6HVBSZDUIQTEFPI136N1HB2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreText-CR866889UJLSOO85A7H13CHQ5.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreText-7OKHYBG09IVI6YQH5SFWH0AVA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreTransferable-78UU6WXD4D16WG5DMFU6V9NVB.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreTransferable-B1WFKCQVW8UDDRTFX9NWWH791.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/CoreVideo-BVLCGFDLC3576CZ7RKBH6O23Z.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/CoreVideo-X74MWXI5PDFFVFHU0834PAG0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Darwin-WK4U4OXKXXV9I8HM2AXV0BMR.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Darwin-8ZDAAKMI2ALUTUVL630P16XC4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/DataDetection-9Q22UBHQ9ASNIB6HLEC4IHVZO.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/DataDetection-CK6BVZVWIB2PJUQJXFBTAQECI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-D0F0VQM33KV5I73BXMV3RR98T.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-1MKBFWJ8R2MBXHVXDSMS51YQG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/DiskArbitration-8OFZQN5Y1ZKJMJNEF3ZAULJSZ.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/DiskArbitration-5AZLTPCTFF7J3P97LTQ1AJU9U.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Dispatch-9TE781IJUNSVBQ5MSW92UW90E.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Dispatch-8BI9RUJ13HSXPJA616HZTSBL2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
-    "clangModuleMapPath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-ASFP3361S45FDZ8LC7UMAWCUW.pcm",
+    "clangModuleMapPath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-2XOINS3G2GBJR3NJF55GFB0NR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "FlutterMacOS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Foundation-4LFHWBRA545OQ0O3HX94WZJQS.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Foundation-DLMXY0T4L6JX3ZTB6JVBJ6IEE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/IOKit-2YL3RBJ60TWI4V59AEAL17TDQ.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/IOKit-74441T7TKE77FQ6X6VQQSW2C0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/IOSurface-5THPSUJZTHCXBKGZWHLIDGH6G.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/IOSurface-5HCLYJ27WGIVJWGIS7PQUFJQF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/ImageIO-1YUW5W7QGWXYQIM1196L1U01P.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/ImageIO-CRLKTZHXEGW7YUXQ3G8AECDOU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/MachO-651X9MMB1XYCHELKUBZBG6BW5.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/MachO-44TJ1WXTKUQ2CZSJS9K2N5WGI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Metal-1UW88MI1RJ7S0J5760YU344J4.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Metal-AGXB2U80XG0ORRTGPVJX1Z743.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/OSLog-DM6ZQHRESUP3EOGDCLM27NMPX.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/OSLog-C4FDYTY6DZ52XECX0GB1YI1G6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/ObjectiveC-CHCBKC4TQYASMOI2M6E7BZS09.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/ObjectiveC-CUSJ7B34YDXQZGMV2F66WE7HU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/OpenGL-DZSL4DVCJNEU30TT9LIA4N31L.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/OpenGL-7SBVYFF6JTWP9AXG4NP5PP4EG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/QuartzCore-1KBMGW0B07Z8EO9H4WRI479UW.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/QuartzCore-AJH5SM5RMXYMRYYSSMFC50S60.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Security-2SNFSM5T7DGUVQVWGZJOKIY91.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Security-63QQVI8KDOJMCEA145ECBRG1X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Spatial-BX1JVR4XZ52YVWMT0WOZ19B69.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Spatial-CHBK7IL87LJ603NVB16YLPMSV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/SwiftShims-2MO81TPU1H7M8VCB1J9P5Z3B4.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/SwiftShims-B0L75YRDXLIPGZL5LXZ5LWGB9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/SwiftUI-DRCJ9X5FQSNJZSG2MCHKGTQQU.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/SwiftUI-8RBS2DDFN2LO2G66NXVS7PE5E.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/SwiftUICore-EIMBS12HQZRPMHZIOFWUCOO18.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/SwiftUICore-4NB5H93GJP0ZTY7C5Y1LC9YN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/Symbols-3PLCI6SV54V76J7MKHJCMLWUH.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/Symbols-1R8SHDIEZ2NRJWEDRAFS3KT06.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-4TICN8ZQUZ5A30F88JCT81X3K.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-6WRM1I69WQCU6IS9OE5V6MV9V.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/XPC-92CL1Y2KQT6DP3FBN8AZ5E1W4.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/XPC-9KJERDZ70RNZ7436BDG4H8M9G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-96XJ2600K6WX5K5I09L57KL1T.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-9F9O2AEXRML3T6KGZGF0NYUH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_float-8MJ38WQ73GG6057U8MKJHP2XE.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_float-5S5PUU7BW0RF5E2IM0WSV3Z95.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-5HFZ1RV897M9HW0411F1MHX1R.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-77QONLYIM5RUOPVCINAOID92K.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-8QP24CXPVUUQZK7YM7PFG7401.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-E6TGK5C4A8FWDITF78H4IB0RK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-9K9UEL8LLSYJ8A04ZAZTIVBGC.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-19LQHMF8NQDUA2MF81N57GPX7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-DJCCUY9PMKURLO06M0H84JHTX.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-7YMG26N62EYRXIPNYW92WMKT7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-1G9X3MKOFJL9VFQJXJURK9ECU.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-DKL4NV1ZCIHB66S7KP0E61JRY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-D10EIQ1HKOQNZ8VZH28LMYDG1.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-AKB3719MQ4JEW0L5Z4BVQDIM3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-2BGL7TZ9C4E89G9GUZVHLB5FA.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-2V3OYILGZVCQBUM7LQ3FWSOYK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-5KBGSPKQL186Z07K1FVOX8G10.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-1GXDK4O77W3RCUCSO96Q1A956.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-9PG0BYZXWV5BXHSKQ9FSGBESG.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-CCWZYQPYG8W0I66IWXCHF959S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-DOPXN4Q0L4VWKH6N389DJ2IU3.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-EQTU6XANVOC973JVNNC08NYJF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-3VE3M4J8Z6BL3HWCG1KUL0IF2.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-9JK5ZQDLXCYWYI5F0FJHGRE47.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-3950RSIWCMMIG89WM3NPX361X.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-AM10URI3C4K9HL3R5CJMBYLX4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-7KZL7E5EMBHK9BMQD4W67TUNP.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-91BK9MD7CGBCB6YUDSZMPIQHV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/launch-BQIRCGIPJLAG31AAXQIY32IAZ.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/launch-1H2APUV5M85HDDJF6BE3L6X0J.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/libDER-2LHAOQXWRRRMD1EUEQMUIBQ6U.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/libDER-DKZB6CTVNDY2KMR5IXQ79XSB8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/libkern-61GT7L2GCWRDCYKKNAF79PXBK.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/libkern-5I657XBX18KR59SE2NZJ4PDZU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/os-8K1ID358ILMDVR5GQPYI9IFY5.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/os-UI4XIF43478EML5HI0KSV7AX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/os_object-4JYESKUWP3O9E0NF8U5N4170E.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/os_object-DKZ1ECYATD9NQJXVCOAJDY2B3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/os_workgroup-N85B8Q801AGC3BILV9H50NF2.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/os_workgroup-53M53XF2V3PAURRM7VNIOWYS4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/ptrauth-9BF1IKEDJFOUFU02ERM9IJKYN.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/ptrauth-F0YMUEM1RIO9XMZ3LO92XJEP8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/ptrcheck-EVJZAQH54K7OZXFXY7XTGXN6V.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/ptrcheck-50SYUKJMXHVBHWQJYXQQBUQEP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/simd-1ARGBOG2G9GPFZI24O0YSQQDZ.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/simd-171R5DNFFTE5CXW4MV5R7NT4I.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/g123k\/Documents\/ECE\/cours_02\/build\/macos\/ModuleCache.noindex\/sys_types-8Q6D77V0BW1UFEFOZ480G65WH.pcm",
+    "clangModulePath" : "\/Users\/martin\/VSCode\/Prog Mobile\/cours_ece_2026\/cours_01\/TP2\/build\/macos\/ModuleCache.noindex\/sys_types-48UMNL5V2PUNMDX9IO9WPO4Q8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"
