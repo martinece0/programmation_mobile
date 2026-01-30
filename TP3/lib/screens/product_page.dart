@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:formation_flutter/l10n/app_localizations.dart';
 import 'package:formation_flutter/model/product.dart';
-import 'package:formation_flutter/model/product_provider.dart';
+import 'package:formation_flutter/model/product_change_notifier.dart';
 import 'package:formation_flutter/res/app_colors.dart';
 import 'package:formation_flutter/res/app_icons.dart';
 import 'package:formation_flutter/res/app_theme_extension.dart';
@@ -9,66 +10,83 @@ import 'package:formation_flutter/res/app_theme_extension.dart';
 class ProductPage extends StatelessWidget {
   const ProductPage({super.key});
 
+  @override
+  Widget build(BuildContext context) {
+    return ChangeNotifierProvider(
+      create: (_) => ProductChangeNotifier()..loadProduct(),
+      child: Scaffold(
+        body: Consumer<ProductChangeNotifier>(
+          builder: (context, notifier, child) {
+            return notifier.product == null
+                ? const Center(child: CircularProgressIndicator())
+                : const _ProductContent();
+          },
+        ),
+      ),
+    );
+  }
+}
+
+class _ProductContent extends StatelessWidget {
+  const _ProductContent();
+
   static const double IMAGE_HEIGHT = 300.0;
 
   @override
   Widget build(BuildContext context) {
-    final product = ProductProvider.of(context).product;
-
-    return Scaffold(
-      body: SizedBox.expand(
-        child: Stack(
-          children: [
-            PositionedDirectional(
-              top: 0.0,
-              start: 0.0,
-              end: 0.0,
-              height: IMAGE_HEIGHT,
-              child: product.picture != null && product.picture!.isNotEmpty
-                  ? Image.network(
-                      product.picture!,
-                      fit: BoxFit.cover,
-                      cacheHeight:
-                          (IMAGE_HEIGHT * MediaQuery.devicePixelRatioOf(context))
-                              .toInt(),
-                    )
-                  : Container(color: Colors.grey),
-            ),
-            PositionedDirectional(
-              top: IMAGE_HEIGHT - 16.0,
-              start: 0.0,
-              end: 0.0,
-              bottom: 0.0,
-              child: Container(
-                decoration: BoxDecoration(
-                  borderRadius: BorderRadius.vertical(
-                    top: Radius.circular(16.0),
+    final product = Provider.of<ProductChangeNotifier>(context).product!;
+    return SizedBox.expand(
+      child: Stack(
+        children: [
+          PositionedDirectional(
+            top: 0.0,
+            start: 0.0,
+            end: 0.0,
+            height: IMAGE_HEIGHT,
+            child: product.picture != null && product.picture!.isNotEmpty
+                ? Image.network(
+                    product.picture!,
+                    fit: BoxFit.cover,
+                    cacheHeight:
+                        (IMAGE_HEIGHT * MediaQuery.devicePixelRatioOf(context))
+                            .toInt(),
+                  )
+                : Container(color: Colors.grey),
+          ),
+          PositionedDirectional(
+            top: IMAGE_HEIGHT - 16.0,
+            start: 0.0,
+            end: 0.0,
+            bottom: 0.0,
+            child: Container(
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.vertical(
+                  top: Radius.circular(16.0),
+                ),
+                color: Colors.white,
+              ),
+              padding: EdgeInsetsDirectional.symmetric(
+                horizontal: 20.0,
+                vertical: 30.0,
+              ),
+              child: Column(
+                crossAxisAlignment: .start,
+                children: [
+                  Text(
+                    product.name ?? '-',
+                    style: context.theme.title1,
                   ),
-                  color: Colors.white,
-                ),
-                padding: EdgeInsetsDirectional.symmetric(
-                  horizontal: 20.0,
-                  vertical: 30.0,
-                ),
-                child: Column(
-                  crossAxisAlignment: .start,
-                  children: [
-                    Text(
-                      product.name ?? '-',
-                      style: context.theme.title1,
-                    ),
-                    Text(
-                        product.brands != null && product.brands!.isNotEmpty
-                            ? product.brands!.first
-                            : '-',
-                        style: context.theme.title2),
-                    Scores(product: product),
-                  ],
-                ),
+                  Text(
+                      product.brands != null && product.brands!.isNotEmpty
+                          ? product.brands!.first
+                          : '-',
+                      style: context.theme.title2),
+                  Scores(product: product),
+                ],
               ),
             ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }

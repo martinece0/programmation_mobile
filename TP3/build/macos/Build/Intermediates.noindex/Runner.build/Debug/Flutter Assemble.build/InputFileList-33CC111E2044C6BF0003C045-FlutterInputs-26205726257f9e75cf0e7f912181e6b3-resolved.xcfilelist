@@ -118,9 +118,25 @@
 /Users/martin/.pub-cache/hosted/pub.dev/meta-1.17.0/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/meta-1.17.0/lib/meta.dart
 /Users/martin/.pub-cache/hosted/pub.dev/meta-1.17.0/lib/meta_meta.dart
+/Users/martin/.pub-cache/hosted/pub.dev/nested-1.0.0/LICENSE
+/Users/martin/.pub-cache/hosted/pub.dev/nested-1.0.0/lib/nested.dart
 /Users/martin/.pub-cache/hosted/pub.dev/path-1.9.1/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/path_parsing-1.1.0/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/petitparser-7.0.1/LICENSE
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/LICENSE
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/async_provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/change_notifier_provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/consumer.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/deferred_inherited_provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/devtool.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/inherited_provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/listenable_provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/proxy_provider.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/reassemble_handler.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/selector.dart
+/Users/martin/.pub-cache/hosted/pub.dev/provider-6.1.5+1/lib/src/value_listenable_provider.dart
 /Users/martin/.pub-cache/hosted/pub.dev/source_span-1.10.1/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/stack_trace-1.12.1/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/stream_channel-2.1.4/LICENSE
@@ -160,11 +176,13 @@
 /Users/martin/.pub-cache/hosted/pub.dev/vm_service-15.0.2/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/web-1.1.1/LICENSE
 /Users/martin/.pub-cache/hosted/pub.dev/xml-6.6.1/LICENSE
-/Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/DOES_NOT_EXIST_RERUN_FOR_WILDCARD360454431
+/Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/DOES_NOT_EXIST_RERUN_FOR_WILDCARD438353563
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/l10n.yaml
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/l10n/app_fr.arb
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/main.dart
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/model/product.dart
+/Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/model/product_change_notifier.dart
+/Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/model/product_provider.dart
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/res/app_colors.dart
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/res/app_icons.dart
 /Users/martin/VSCode/Prog Mobile/cours_ece_2026/cours_01/TP3/lib/res/app_theme_extension.dart

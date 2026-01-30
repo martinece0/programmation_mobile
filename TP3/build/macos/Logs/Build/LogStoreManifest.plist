@@ -6,7 +6,7 @@
 	<integer>12</integer>
 	<key>logs</key>
 	<dict>
-		<key>DE9E246B-6ED8-4966-9EA1-B5EDB07B55E2</key>
+		<key>FBCC8E3D-F77E-4487-BAA6-3C5C6C15CDC5</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DE9E246B-6ED8-4966-9EA1-B5EDB07B55E2.xcactivitylog</string>
+			<string>FBCC8E3D-F77E-4487-BAA6-3C5C6C15CDC5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
@@ -29,7 +29,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Runner project</string>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Building workspace Runner with scheme Runner and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>791468536.70780206</real>
+			<real>791471115.07718801</real>
 			<key>timeStoppedRecording</key>
-			<real>791468547.97526205</real>
+			<real>791471120.95089197</real>
 			<key>title</key>
 			<string>Building workspace Runner with scheme Runner and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>DE9E246B-6ED8-4966-9EA1-B5EDB07B55E2</string>
+			<string>FBCC8E3D-F77E-4487-BAA6-3C5C6C15CDC5</string>
 		</dict>
 	</dict>
 </dict>
