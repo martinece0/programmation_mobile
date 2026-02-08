@@ -1,0 +1,1 @@
+ /Users/martin/VSCode/Prog\ Mobile/cours_ece_2026/cours_01/TP4/lib/l10n/app_localizations_fr.dart /Users/martin/VSCode/Prog\ Mobile/cours_ece_2026/cours_01/TP4/lib/l10n/app_localizations.dart:  /Users/martin/VSCode/Prog\ Mobile/cours_ece_2026/cours_01/TP4/l10n.yaml /Users/martin/VSCode/Prog\ Mobile/cours_ece_2026/cours_01/TP4/lib/l10n/app_fr.arb
